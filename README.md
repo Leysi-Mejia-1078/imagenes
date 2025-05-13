@@ -44,27 +44,27 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
         children: <Widget>[
           makePage(
             page: 1,
-            image: 'assets/images/one.jpg',
-            title: 'Yosemite National Park',
-            description: 'Yosemite National Park is in California’s Sierra Nevada mountains.'
+            image: 'https://raw.githubusercontent.com/Leysi-Mejia-1078/imagenes/refs/heads/main/anillo.jpg',
+            title: 'Anillo de Zafiro con Diamantes',
+            description: 'Este delicado anillo presenta un zafiro azul de corte cuadrado como piedra central, engastado con precisión en un engaste de cuatro puntas.'
           ),
           makePage(
             page: 2,
-            image: 'assets/images/two.jpg',
-            title: 'Golden Gate Bridge',
-            description: 'The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait.'
+            image: 'https://raw.githubusercontent.com/Leysi-Mejia-1078/imagenes/refs/heads/main/aretes.jpg',
+            title: 'Aros Dorados de Estilo Chunky en Plata Esterlina',
+            description: 'Estos llamativos aros dorados presentan un diseño chunky con acabado altamente pulido, ideal para añadir un toque de sofisticación y modernidad a cualquier look. '
           ),
           makePage(
             page: 3,
-            image: 'assets/images/three.jpg',
-            title: 'Sedona',
-            description: "Sedona is regularly described as one of America's most beautiful places."
+            image: 'https://raw.githubusercontent.com/Leysi-Mejia-1078/imagenes/refs/heads/main/collar.jpg',
+            title: 'Colgante Elegancia Esmeralda en Gota',
+            description: "Este refinado collar presenta un colgante en forma de gota con una deslumbrante piedra verde, evocando la belleza de una esmeralda."
           ),
           makePage(
             page: 4,
-            image: 'assets/images/four.jpg',
-            title: 'Savannah',
-            description: "Savannah, with its Spanish moss, Southern accents and creepy graveyards, is a lot like Charleston, South Carolina."
+            image: 'https://raw.githubusercontent.com/Leysi-Mejia-1078/imagenes/refs/heads/main/pulsera.jpg',
+            title: 'Brazalete de Lujo Dorado con Cristales de Corte Baguette',
+            description: "Este elegante brazalete dorado de la marca Sahira combina un diseño moderno con detalles clásicos."
           ),
         ],
       ),
